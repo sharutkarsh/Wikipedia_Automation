@@ -1,0 +1,11 @@
+First of all pull this code on your machine using git bash
+
+then right click on pom.xml and run it with mvn install
+
+After that To Run the test 
+
+Go to  -> src/main/java/ (default package)/Test1.java
+
+Now right click on the test1.java and Runt it as testNG test
+
+Then see the results in Console...
