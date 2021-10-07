@@ -9,3 +9,17 @@ Go to  -> src/main/java/ (default package)/Test1.java
 Now right click on the test1.java and Runt it as testNG test
 
 Then see the results in Console...
+
+PASSED: Exercise_1
+PASSED: Exercise_2
+
+===============================================
+    Default test
+    Tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 2, Passes: 2, Failures: 0, Skips: 0
+===============================================
